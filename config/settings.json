@@ -1,0 +1,83 @@
+{
+    "projects": {
+        "14D16BD1-4F8E-094B-0FA3-7AA0358B6F56": {
+            "config-debug": {
+                "additionalDependencies": [],
+                "additionalIncludeDirectories": [],
+                "additionalLibraryDirectories": [],
+                "preprocessorDefinitions": []
+            },
+            "config-release": {
+                "additionalDependencies": [],
+                "additionalIncludeDirectories": [],
+                "additionalLibraryDirectories": [],
+                "preprocessorDefinitions": []
+            },
+            "dependencies": [
+                "18155844-6392-0CC6-63C4-0B2863513586"
+            ],
+            "dependents": [],
+            "name": "SMServer",
+            "property-lib": false,
+            "property-pch": true,
+            "property-vcpkg": false,
+            "property-window": false
+        },
+        "17FB0861-3550-1CCC-216F-1073020D1101": {
+            "config-debug": {
+                "additionalDependencies": [],
+                "additionalIncludeDirectories": [],
+                "additionalLibraryDirectories": [],
+                "preprocessorDefinitions": []
+            },
+            "config-release": {
+                "additionalDependencies": [],
+                "additionalIncludeDirectories": [],
+                "additionalLibraryDirectories": [],
+                "preprocessorDefinitions": []
+            },
+            "dependencies": [
+                "18155844-6392-0CC6-63C4-0B2863513586"
+            ],
+            "dependents": [],
+            "name": "SMClient",
+            "property-lib": false,
+            "property-pch": true,
+            "property-vcpkg": false,
+            "property-window": true
+        },
+        "18155844-6392-0CC6-63C4-0B2863513586": {
+            "config-debug": {
+                "additionalDependencies": [],
+                "additionalIncludeDirectories": [],
+                "additionalLibraryDirectories": [],
+                "preprocessorDefinitions": []
+            },
+            "config-release": {
+                "additionalDependencies": [],
+                "additionalIncludeDirectories": [],
+                "additionalLibraryDirectories": [],
+                "preprocessorDefinitions": []
+            },
+            "dependencies": [],
+            "dependents": [
+                "17FB0861-3550-1CCC-216F-1073020D1101",
+                "14D16BD1-4F8E-094B-0FA3-7AA0358B6F56"
+            ],
+            "name": "SMLib",
+            "property-lib": true,
+            "property-pch": true,
+            "property-vcpkg": false,
+            "property-window": false
+        }
+    },
+    "projects_name_to_guid": {
+        "SMClient": "17FB0861-3550-1CCC-216F-1073020D1101",
+        "SMLib": "18155844-6392-0CC6-63C4-0B2863513586",
+        "SMServer": "14D16BD1-4F8E-094B-0FA3-7AA0358B6F56"
+    },
+    "solution_guid": "17DA6485-7B7F-70D2-0E86-770F08790359",
+    "solution_name": "StarMarine",
+    "startup_project": "",
+    "version": "2.0"
+}
