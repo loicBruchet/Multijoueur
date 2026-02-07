@@ -9,13 +9,10 @@ Ce projet a été conçu dans le but principal d'apprendre et de maîtriser les 
 
 ## 🛠️ Stack Technique
 * **Moteur :** GPU Engine (moteur personnalisé de notre interve,a,t
-* **Réseau/Backend :** [ex: Mirror, Photon Fusion, FishNet, Socket.io, Node.js, Dedicated Server]
 * **Langage :** C++
 * **Outils de versionning :** GitHub
 
 ## 🧠 Ce que j'ai appris (Key Learnings)
-
-Le passage d'un jeu solo à un jeu multijoueur a nécessité un changement complet de paradigme. Voici les concepts clés acquis durant ce projet :
 
 ### 1. Multithreading
 
