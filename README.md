@@ -1,4 +1,4 @@
-# - Projet Multijoueur & Retour d'Expérience 🎮
+# - Projet Multijoueur  🎮
 
 > **Statut :** Démo
 > 
@@ -7,7 +7,9 @@
 > **Architecture :** Client-Serveur
 
 ## 📖 Introduction
-Ce projet a été conçu dans le but principal d'apprendre et de maîtriser les fondements du développement de jeux vidéo en réseau. Au-delà du gameplay, l'objectif était de comprendre comment synchroniser un état de jeu entre plusieurs machines en temps réel.
+Ce projet a été conçu dans le but principal d'apprendre et de maîtriser les fondements du développement de jeux vidéo en réseau. Nous avon donc du réaliser un jeu en 2 semaines un jeu de tir en multijoueur afin de comprendre comment synchroniser un état de jeu entre plusieurs machines en temps réel.
+
+Le mode multijoueur ne marche que en local filaire.
 
 ## 🛠️ Stack Technique
 * **Moteur :** GPU Engine (moteur personnalisé de notre interve,a,t
@@ -32,3 +34,4 @@ Ils sont envoyés au serveur qu'il va ensuite distribuer à tout les clients pou
 Si je devais continuer ce projet, je me concentrerais sur :
 * Amélioration du Gameplay de manière générale
 * Ajouter des collision
+* Restructuration de la partie serveur
