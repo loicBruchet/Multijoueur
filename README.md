@@ -39,7 +39,6 @@ Pour compenser le délai réseau (ping), j'ai dû implémenter des techniques po
 ## 🐛 Challenges Techniques Surmontés
 
 | Challenge | Solution / Approche |
-| :--- | :--- |
 | **Ex: Race Conditions** | *Problème :* Deux joueurs ramassent un item en même temps. <br> *Solution :* Le serveur gère une file d'attente et valide le premier arrivé, notifiant l'autre de l'échec. |
 | **Ex: Connexion Instable** | *Problème :* Déconnexions intempestives. <br> *Solution :* Implémentation d'un système de "Heartbeat" et de reconnexion automatique avec récupération de l'état du jeu. |
 | **[Ton Problème]** | [Ta solution] |
