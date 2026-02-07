@@ -1,7 +1,9 @@
 # - Projet Multijoueur & Retour d'Expérience 🎮
 
 > **Statut :** Démo
+
 > **Type :** Battle royale
+
 > **Architecture :** Client-Serveur
 
 ## 📖 Introduction
