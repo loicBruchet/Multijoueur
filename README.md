@@ -4,7 +4,7 @@
 > 
 > **Type :** Battle royale
 > 
-> **Architecture :** Client-Serveur
+> **Durée du projet :** 2 semaines
 
 ## 📖 Introduction
 Ce projet a été conçu dans le but principal d'apprendre et de maîtriser les fondements du développement de jeux vidéo en réseau. Nous avon donc du réaliser un jeu en 2 semaines un jeu de tir en multijoueur afin de comprendre comment synchroniser un état de jeu entre plusieurs machines en temps réel.
